@@ -1,5 +1,5 @@
 ### Hi there 👋, Hubert Magdziak
-#### Data Processing and Machine Learning
+#### Data Processing and Machine Learning enthusiast
 I am passionate Data Science student with a love for unraveling insights through machine learning. Eager to transform raw data into actionable knowledge. Engaging in cutting-edge methodologies, statistical analysis, and predictive modeling. Keen on new challanges and technologies. Since 6 years, I am also a mathematics tutor for high school students.
 
 Skills: PYTHON / R / SQL / GIT
