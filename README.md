@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hi there 👋, Hubert Magdziak
+#### Data Processing and Machine Learning
+I am passionate Data Science student with a love for unraveling insights through machine learning. Eager to transform raw data into actionable knowledge. Engaging in cutting-edge methodologies, statistical analysis, and predictive modeling. Keen on new challanges and technologies. Since 6 years, I am also a mathematics tutor for high school students.
 
-I am passionate Data Science student with a love for unraveling insights through machine learning. Eager to transform raw data into actionable knowledge. Engaging in cutting-edge methodologies, statistical analysis, and predictive modeling. Keen on new challanges and technologies. Since 6 years, I am also a mathematics tutor for high school students. 
+Skills: PYTHON / R / SQL / GIT
 
-You can also check my linkedin profile at: https://www.linkedin.com/in/hubert-magdziak-614b88275
+- 📫 How to reach me: www.linkedin.com/in/hubert-magdziak 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hubert-Magdziak)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hubert-Magdziak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/hubert-magdziak/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rpubs.com/av1ze)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hubert-Magdziak&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Hubert-Magdziak)  
+
