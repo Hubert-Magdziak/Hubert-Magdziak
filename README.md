@@ -9,7 +9,5 @@ Skills: PYTHON / R / SQL / GIT
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hubert-Magdziak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hubert-magdziak/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rpubs.com/av1ze)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hubert-Magdziak&show_icons=true)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Hubert-Magdziak)  
 
